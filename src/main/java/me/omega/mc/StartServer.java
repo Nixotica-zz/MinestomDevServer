@@ -1,4 +1,4 @@
-package me.nixotica.com;
+package me.omega.mc;
 
 import groovyjarjarantlr4.v4.runtime.misc.NotNull;
 import net.minestom.server.MinecraftServer;
